@@ -3,6 +3,10 @@
 # RoboND-SLAMLab
 In this lab, we will implement a gmapping ROS package which is based on the Grid-based FastSLAM algorithm to map an environment.
 
+### Video demo
+
+![alt text](images/demo.gif)
+
 ### Dependencies
 
 - ROS Kinetic
